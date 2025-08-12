@@ -1,11 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=26&pause=1000&color=B31A1A&random=false&width=435&lines=Primeiro+projeto+-+portf%C3%B3lio)](https://git.io/typing-svg)
+<h1 align="left">🌸 PRIMEIRO PORTFÓLIO - SEMANA DEV EM DOBRO </h1>
 
-Bem vindo! Esse é meu primeiro projeto de um portfólio feito na semana do Dev em Dobro! 
+###
 
-Linguagens usadas:
+<p align="left">Treino de Frontend</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&size=26&pause=1000&color=B31A1A&random=false&width=435&lines=HTML%2C+CSS+e+JavaScript.)](https://git.io/typing-svg)
+###
 
-  <img align='center' alt='png' height='400' width='2000' src='https://media.discordapp.net/attachments/693963581590601778/1226963814189109248/Captura_de_Tela_147.png?ex=6626ae19&is=66143919&hm=3b9029aba99084b788185df486e8cb5cf46f530e09a0dcf9e6e0b84537cbe7bf&=&format=webp&quality=lossless&width=864&height=467'/>
+<h2 align="left">🌸 TECNOLOGIAS USADAS</h2>
 
-Espero que gostem!
+###
+
+<p align="left">⚪ HTML<br>⚪ CSS<br>⚪ JS</p>
+
+###
