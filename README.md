@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Treino de Frontend</p>
+<p align="left">Treino de Frontend feito na semana do DEV em Dobro, portófilo simples</p>
 
 ###
 
